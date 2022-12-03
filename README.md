@@ -2,9 +2,9 @@
 
 ## 安裝方式
 
-1.解壓縮 1479.zip 以及 vba_172.vip
-2.開啟VisualBoyAdvance.exe
-3.左上file -> open -> 選擇1479.gba開啟 
+* 解壓縮 1479.zip 以及 vba_172.vip
+* 開啟VisualBoyAdvance.exe
+* 左上file -> open -> 選擇1479.gba開啟 
 
 
 ## 道具介紹：
